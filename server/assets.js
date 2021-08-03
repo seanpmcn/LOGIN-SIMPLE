@@ -1,0 +1,1 @@
+module.exports = { mysqlPassword: "8wKRvu?K7<?B2Q>X" };
